@@ -9,9 +9,6 @@ export function Footer() {
           {/* Company Info */}
           <div>
             <h3 className="font-heading font-bold text-lg mb-4">EntradasDeporte</h3>
-            <p className="text-muted-foreground text-sm leading-relaxed mb-4">
-              Conectando aficionados con sus deportes favoritos desde 2010
-            </p>
             
           </div>
 

@@ -3,7 +3,8 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { Button } from '@/components/ui/button'
-import { Menu, X, Ticket } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
+import Image from 'next/image'
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -38,9 +39,7 @@ export function Navigation() {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link href="/" className="flex items-center gap-2 group">
-              <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-                <Ticket className="w-6 h-6 text-primary-foreground" />
-              </div>
+              <Image src="/favicon.ico" alt="EntradasDeporte Logo" width={40} height={40} />
               <span className="text-xl font-bold font-heading text-foreground">
                 EntradasDeporte
               </span>
