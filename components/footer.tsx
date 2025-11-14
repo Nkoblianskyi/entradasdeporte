@@ -53,11 +53,6 @@ export function Footer() {
                   Política de Cookies
                 </Link>
               </li>
-              <li>
-                <Link href="/terminos" className="text-muted-foreground hover:text-primary transition-colors">
-                  Términos y Condiciones
-                </Link>
-              </li>
             </ul>
           </div>
 
