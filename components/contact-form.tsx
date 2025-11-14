@@ -234,7 +234,7 @@ export function ContactForm() {
               <div>
                 <p className="font-medium">Teléfono</p>
                 <a href="tel:+34914567890" className="text-muted-foreground hover:text-primary">
-                  +34 91 456 7890
+                  +34 91 461 4982
                 </a>
               </div>
             </div>
