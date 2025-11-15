@@ -21,24 +21,6 @@ const sourceSans = Source_Sans_3({
 export const metadata: Metadata = {
   title: 'EntradasDeporte.com - Entradas para Eventos Deportivos en España',
   description: 'Consigue entradas para fútbol, baloncesto, tenis y más en EntradasDeporte.com. Accede a La Liga, ACB, MotoGP y todos los grandes eventos deportivos de España.',
-  generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export default function RootLayout({
