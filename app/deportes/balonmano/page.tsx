@@ -15,17 +15,17 @@ export default function BalonmanoPage() {
     {
       name: 'Copa del Rey',
       description: 'Torneo de copa con los mejores equipos españoles en emocionantes enfrentamientos.',
-      image: '/copa-rey-balonmano-handball-spanish-tournament.jpg',
+      image: '/567aee1188ab50e17ac4de07f8dd5257.jpg',
     },
     {
       name: 'Supercopa ASOBAL',
       description: 'Enfrentamiento entre el campeón de liga y el ganador de la Copa del Rey.',
-      image: '/supercopa-asobal-handball-champions-match.jpg',
+      image: '/1dce3eaee8a6571ef6364928e1aaffa9.jpg',
     },
     {
       name: 'EHF Champions League',
       description: 'La máxima competición europea con participación de clubes españoles.',
-      image: '/ehf-champions-league-handball-european-spanish.jpg',
+      image: '/c42e3564cb280bc77a8f0b119b5bdfbd.jpg',
     },
   ]
 

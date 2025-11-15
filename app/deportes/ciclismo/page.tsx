@@ -10,22 +10,22 @@ export default function CiclismoPage() {
     {
       name: 'La Vuelta a España',
       description: 'Una de las tres grandes vueltas del ciclismo mundial con etapas espectaculares.',
-      image: '/la-vuelta-espana-cycling-grand-tour-mountains.jpg',
+      image: '/6ebc171aefd1bc040c38c5cdbacaaddd.jpg',
     },
     {
       name: 'Vuelta al País Vasco',
       description: 'Carrera por etapas con recorridos exigentes por el norte de España.',
-      image: '/vuelta-pais-vasco-cycling-northern-spain-race.jpg',
+      image: '/055b9f4b50e56eb287daf42c4db2c5ef.jpg',
     },
     {
       name: 'Vuelta a Burgos',
       description: 'Carrera de preparación para las grandes citas del calendario.',
-      image: '/vuelta-burgos-cycling-preparation-race-spain.jpg',
+      image: '/bf3ddda2a924af84e8949ddf02445e79.jpg',
     },
     {
       name: 'Clásica de San Sebastián',
       description: 'Una de las clásicas más prestigiosas del calendario WorldTour.',
-      image: '/clasica-san-sebastian-cycling-worldtour-basque.jpg',
+      image: '/6b1dc476bcc53bf82865380353dc82d1.jpg',
     },
   ]
 

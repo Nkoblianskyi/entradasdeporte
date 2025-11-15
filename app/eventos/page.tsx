@@ -116,7 +116,7 @@ export default function EventosPage() {
       sport: 'Ciclismo',
       name: 'Vuelta al País Vasco',
       description: 'Carrera por etapas en el País Vasco con recorridos exigentes.',
-      image: '/placeholder.svg?height=400&width=600',
+      image: '/ef64ad4e2dafb0f2dc25e9ccd74e2915.jpg',
     },
   ]
 

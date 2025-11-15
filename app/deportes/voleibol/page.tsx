@@ -10,22 +10,22 @@ export default function VoleibolPage() {
     {
       name: 'Superliga Masculina',
       description: 'La máxima categoría del voleibol masculino español con equipos competitivos.',
-      image: '/superliga-masculina-volleyball-spanish-mens.jpg',
+      image: '/volleyball-match-indoor.jpg',
     },
     {
       name: 'Superliga Femenina',
       description: 'Liga femenina de voleibol con alto nivel de juego y grandes rivalidades.',
-      image: '/superliga-femenina-volleyball-spanish-womens.jpg',
+      image: '/a5491edd405f9ef56941f3646e117ff7.jpg',
     },
     {
       name: 'Copa del Rey',
       description: 'Torneo de copa con los mejores equipos masculinos del país.',
-      image: '/copa-rey-voleibol-volleyball-mens-tournament.jpg',
+      image: '/copa-del-rey-volleyball-tournament-spain.jpg',
     },
     {
       name: 'Supercopa',
       description: 'Torneo que marca el inicio de la temporada con los campeones.',
-      image: '/supercopa-voleibol-volleyball-spanish-champions.jpg',
+      image: '/78bf3ba930b221049b33dca7878b0b34.jpg',
     },
   ]
 

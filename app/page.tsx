@@ -111,7 +111,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-2xl">
             <div className="inline-block bg-spanish-red text-white px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              🎉 Más de 50,000 clientes satisfechos
+              Más de 50,000 clientes satisfechos
             </div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-heading font-extrabold text-balance mb-6 leading-tight">
               Tu Pasión Deportiva Empieza Aquí
@@ -137,10 +137,6 @@ export default function HomePage() {
       <section className="py-24 relative">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <div className="inline-flex items-center gap-2 bg-primary/10 px-4 py-2 rounded-full mb-4">
-              <TrendingUp className="w-4 h-4 text-primary" />
-              <span className="text-sm font-semibold text-primary">Todos Nuestros Deportes</span>
-            </div>
             <h2 className="text-4xl md:text-5xl font-heading font-bold mb-4">
               Explora Todas las Opciones
             </h2>
@@ -156,7 +152,7 @@ export default function HomePage() {
                 href={sport.href}
                 className="group relative"
               >
-                <Card className="overflow-hidden border-2 hover:border-primary transition-all duration-500 hover:shadow-2xl hover:-translate-y-2 h-[400px] flex flex-col">
+                <Card className="overflow-hidden border-2 hover:border-primary transition-all duration-500 hover:shadow-2xl hover:-translate-y-2 h-[450px] flex flex-col">
                   <div className="relative h-48 flex-shrink-0">
                     <Image
                       src={sport.image || "/placeholder.svg"}
@@ -194,10 +190,6 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center max-w-7xl mx-auto">
             <div>
-              <div className="inline-flex items-center gap-2 bg-spanish-gold/20 px-4 py-2 rounded-full mb-6">
-                <Award className="w-4 h-4 text-spanish-gold" />
-                <span className="text-sm font-semibold text-spanish-gold">Desde 2008</span>
-              </div>
               <h2 className="text-4xl md:text-5xl font-heading font-bold mb-6">
                 ¿Por Qué Somos Tu Mejor Opción?
               </h2>
